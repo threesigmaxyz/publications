@@ -6,6 +6,7 @@ Publications from Three Sigma.
 | Name | Report | Artifacts | Date |
 | ---- | ------ | --------- | ---- |
 | [Yeti Finance](https://yetifinance.co/) | [PDF](audits/yeti-finance/Yeti_Finance_Audit.pdf) | None | Apr 2022 |
+| [Ragnarok](https://ragnarok.xyz/) | [PDF](audits/ragnarok/Ragnarok_Audit.pdf) | None | Apr 2022 |
 
 
 ## Economic Reports
