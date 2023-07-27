@@ -10,6 +10,7 @@ Publications from Three Sigma.
 | [Maple Finance](https://www.maple.finance/) | [PDF](audits/maple-finance/Maple_Finance_V2_Audit.pdf) | None | Nov 2022 |
 | [Maple Finance](https://www.maple.finance/) | [PDF](audits/maple-finance-2/Maple_Finance_V2-Audit_202306.pdf) | None | Apr 2023 |
 | [leNFT](https://lenft.fi/) | [PDF](audits/leNFT/leNFT_Audit.pdf) | None | June 2023 |
+| [Fuji Finance](https://fuji.finance/) | [PDF](audits/fuji/fuji_Audit.pdf) | None | June 2023 |
 
 
 ## Economic Reports
