@@ -12,6 +12,7 @@ Publications from Three Sigma.
 | [leNFT](https://lenft.fi/) | [PDF](audits/leNFT/leNFT_Audit.pdf) | None | June 2023 |
 | [Fuji Finance](https://fuji.finance/) | [PDF](audits/fuji/fuji_Audit.pdf) | None | June 2023 |
 | [Tradable](https://www.tradable.trade/) | [PDF](audits/tradable/tradable-report_June2023.pdf) | None | June 2023 |
+| [Maple Finance](https://www.maple.finance/) | [PDF](audits/maple-finance-3/Maple_V2_Q42023.pdf) | None | Dec 2023 |
 
 ## Economic Audits
 | Name | Report | Artifacts | Date |
