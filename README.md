@@ -13,6 +13,8 @@ Publications from Three Sigma.
 | [Fuji Finance](https://fuji.finance/) | [PDF](audits/fuji/fuji_Audit.pdf) | None | June 2023 |
 | [Tradable](https://www.tradable.trade/) | [PDF](audits/tradable/tradable-report_June2023.pdf) | None | June 2023 |
 | [Maple Finance](https://www.maple.finance/) | [PDF](audits/maple-finance-3/Maple_V2_Q42023.pdf) | None | Dec 2023 |
+| [Ordiswap](https://ordiswap.fi/) | [PDF](audits/ordiswap-amm/ordiswap_amm_audit_v1.pdf) | None | Jan 2024 |
+
 
 ## Economic Audits
 | Name | Report | Artifacts | Date |
