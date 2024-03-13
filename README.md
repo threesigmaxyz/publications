@@ -16,6 +16,8 @@ Publications from Three Sigma.
 | [Ordiswap](https://ordiswap.fi/) | [PDF](audits/ordiswap-amm/ordiswap_amm_audit_v1.pdf) | None | Jan 2024 |
 | [Trestle Finance](https://www.trestleprotocol.io/) | [PDF](audits/trestle-finance/Trestle_token_audit.pdf) | None | Jan 2024 |
 | [MetaZero](https://metazero.gg//) | [PDF](audits/metazero/MetazeroVortexAudit.pdf) | None | Jan 2024 |
+| [Ordiswap](https://ordiswap.fi/) | [PDF](audits/ordiswap-token/ordiswap_token_audit.pdf) | None | Feb 2024 |
+
 
 
 ## Economic Audits
