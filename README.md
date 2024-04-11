@@ -29,11 +29,11 @@ Publications from Three Sigma.
 | [Keyring Network](https://www.keyring.network/) | Coming Soon | None | Mar 2024 |
 | [Clip Finance](https://www.clip.finance/) | Coming Soon | None | Mar 2024 |
 | [Ostium Labs](https://www.ostium.io/) | Coming Soon | None | Mar 2024 |
+| [MetaZero](https://metazero.gg//) | [PDF](audits/metazero-2/MetazeroStakingAudit.pdf) | None | Apr 2024 |
 | [Ebisu](https://ebisu.finance/) | Coming Soon | None | Apr 2024 |
 | [Vertex Protocol](https://vertexprotocol.com/) | Coming Soon | None | Apr 2024 |
 
 
-DistrictOne
 
 ## Economic Audits
 | Name | Report | Artifacts | Date |
