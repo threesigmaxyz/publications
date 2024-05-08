@@ -24,7 +24,7 @@ Publications from Three Sigma.
 | [M0Labs](https://www.m0.org/) | Coming Soon | None | Jan 2024 |
 | [District One](https://districtone.io/) | [PDF](audits/DistrictOne/ThreeSigma-Audit-Report-DistrictOne.pdf) | None | Feb 2024 |
 | [Ordiswap](https://ordiswap.fi/) | [PDF](audits/ordiswap-token/ordiswap_token_audit.pdf) | None | Feb 2024 |
-| [Singularity](https://www.thesingularity.network/) | Coming Soon | None | Feb 2024 |
+| [Singularity](https://www.thesingularity.network/) | [PDF](audits/singularity/Singularity.pdf) | None | Feb 2024 |
 | [Layer3](https://layer3.xyz/) | [PDF](audits/layer3/layer3audit.pdf) | None | Mar 2024 |
 | [Keyring Network](https://www.keyring.network/) | Coming Soon | None | Mar 2024 |
 | [Clip Finance](https://www.clip.finance/) | Coming Soon | None | Mar 2024 |
