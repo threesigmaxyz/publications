@@ -33,6 +33,8 @@ Publications from Three Sigma.
 | [Ebisu](https://ebisu.finance/) | Coming Soon | Apr 2024 |
 | [Vertex Protocol](https://vertexprotocol.com/) | Coming Soon | Apr 2024 |
 | [District One](https://districtone.io/) | [PDF](audits/DistrictOne-2/DistrictOneAudit-2.pdf) | Jun 2024 |
+| [Mitosis](https://mitosis.org/) | [PDF](audits/mitosis/mitosis-audit.pdf) | Jul 2024 |
+| [Orange Crypto](https://www.orangecrypto.com/) | [PDF](audits/orange-crypto/orange-bridge-audit.pdf) | Jul 2024 |
 
 
 ## Economic Audits
