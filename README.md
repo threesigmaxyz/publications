@@ -38,9 +38,9 @@ Publications from Three Sigma.
 
 
 ## Economic Audits
-| Name | Report | Artifacts | Date |
-| ---- | ------ | --------- | ---- |
-| [Yeti Finance](https://yetifinance.co/) | [PDF](economic-reports/yeti-finance/Yeti_Finance_EconomicReport.pdf) | None | Apr 2022 |
-
+| Name | Report | Date |
+| ---- | ------ | ---- |
+| [Yeti Finance](https://yetifinance.co/) | [PDF](economic-reports/yeti-finance/Yeti_Finance_EconomicReport.pdf) | Apr 2022 |
+| [Panoptic](https://panoptic.xyz/) | [PDF](economic-reports/panoptic/Panoptic_Simulations_Report.pdf) | May 2024 |
 ## Research
 Visit our [website](https://threesigma.xyz/blog) for in-depth market and academic blockchain research.
