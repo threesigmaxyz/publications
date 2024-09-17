@@ -26,7 +26,6 @@ Publications from Three Sigma.
 | [Ordiswap](https://ordiswap.fi/) | [PDF](audits/ordiswap-token/ordiswap_token_audit.pdf) | Feb 2024 |
 | [Singularity](https://www.thesingularity.network/) | [PDF](audits/singularity/SingularityAudit.pdf) | Feb 2024 |
 | [Layer3](https://layer3.xyz/) | [PDF](audits/layer3/Layer3Audit.pdf) | Mar 2024 |
-| [Keyring Network](https://www.keyring.network/) | Coming Soon | Mar 2024 |
 | [Clip Finance](https://www.clip.finance/) | Coming Soon | Mar 2024 |
 | [Ostium Labs](https://www.ostium.io/) | [PDF](audits/ostiumlabs/OstiumAudit.pdf) | Mar 2024 |
 | [MetaZero](https://metazero.gg//) | [PDF](audits/metazero-2/MetazeroStakingAudit.pdf) | Apr 2024 |
@@ -35,6 +34,8 @@ Publications from Three Sigma.
 | [District One](https://districtone.io/) | [PDF](audits/DistrictOne-2/DistrictOneAudit-2.pdf) | Jun 2024 |
 | [Mitosis](https://mitosis.org/) | [PDF](audits/mitosis/mitosis-audit.pdf) | Jul 2024 |
 | [Orange Crypto](https://www.orangecrypto.com/) | [PDF](audits/orange-crypto/orange-bridge-audit.pdf) | Jul 2024 |
+| [Keyring Network](https://www.keyring.network/) | [PDF](audits/Keyring/KeyringV2.pdf) | Jul 2024 |
+| [BlastOff](https://blastoff.zone/) | [PDF](audits/BlastOff/IdoPools.pdf) | Aug 2024 |
 
 
 ## Economic Audits
