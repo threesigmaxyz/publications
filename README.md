@@ -36,7 +36,10 @@ Publications from Three Sigma.
 | [Orange Crypto](https://www.orangecrypto.com/) | [PDF](audits/orange-crypto/orange-bridge-audit.pdf) | Jul 2024 |
 | [Keyring Network](https://www.keyring.network/) | [PDF](audits/Keyring/KeyringV2.pdf) | Jul 2024 |
 | [BlastOff](https://blastoff.zone/) | [PDF](audits/BlastOff/IdoPools.pdf) | Aug 2024 |
-| [CodeUp](https://codeup.xyz/) | [PDF](audits/code-up/CodeUP.pdf) | Oct 2024 |
+| [Maple Finance](https://www.maple.finance/) | [PDF](audits/maple-4/MapleSyrupActions.pdf) | Aug 2024 |
+| [CodeUp](https://codeup.app/) | [PDF](audits/code-up/CodeUP.pdf) | Oct 2024 |
+| [Ojo Network](https://ojo.network/) | [PDF](audits/Ojo-Network/Ojo-1.pdf) | Oct 2024 |
+| [Ojo Network](https://ojo.network/) | [PDF](audits/Ojo-Network/Ojo-2.pdf) | Oct 2024 |
 
 ## Economic Audits
 | Name | Report | Date |
