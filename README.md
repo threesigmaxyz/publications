@@ -40,6 +40,8 @@ Publications from Three Sigma.
 | [CodeUp](https://codeup.app/) | [PDF](audits/code-up/CodeUP.pdf) | Oct 2024 |
 | [Ojo Network](https://ojo.network/) | [PDF](audits/Ojo-Network/Ojo-1.pdf) | Oct 2024 |
 | [Ojo Network](https://ojo.network/) | [PDF](audits/Ojo-Network/Ojo-2.pdf) | Oct 2024 |
+| [More Markets](https://www.more.markets/) | [PDF](audits/More-Markets/MORE.pdf) | Dec 2024 |
+| [Ostium Labs](https://www.ostium.io/) | [PDF](audits/ostiumlabs-2/Ostium.pdf) | Dec 2024 |
 
 ## Economic Audits
 | Name | Report | Date |
