@@ -43,6 +43,7 @@ Publications from Three Sigma.
 | [More Markets](https://www.more.markets/) | [PDF](audits/More-Markets/MORE.pdf) | Dec 2024 |
 | [Ostium Labs](https://www.ostium.io/) | [PDF](audits/ostiumlabs-2/Ostium.pdf) | Dec 2024 |
 | [M0Labs](https://www.m0.org/) | [PDF](audits/m0labs-2/M0UsualM.pdf)| Dec 2024 |
+| [Hoenn](https://www.hoenn.fi/) | [PDF](audits/Hoenn/Hoenn.pdf)| Fev 2025 |
 
 ## Economic Audits
 | Name | Report | Date |
