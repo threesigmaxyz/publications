@@ -9,7 +9,7 @@ Publications from Three Sigma.
 | [Yeti Finance](https://yetifinance.co/)                          | [PDF](audits/yeti-finance/Yeti_Finance_Audit.pdf)            | Apr 2022  |
 | [Ragnarok](https://ragnarok.xyz/)                                | [PDF](audits/ragnarok/Ragnarok_Audit.pdf)                    | Apr 2022  |
 | [Maple Finance](https://www.maple.finance/)                      | [PDF](audits/Maple-new/MapleFinance-2022.pdf)                | Nov 2022  |
-| [Maple Finance](https://www.maple.finance/)                      | [PDF](MapleFinance-June2023)                                 | Apr 2023  |
+| [Maple Finance](https://www.maple.finance/)                      | [PDF](audits/Maple-new/MapleFinance-June2023.pdf)            | Apr 2023  |
 | [leNFT](https://lenft.fi/)                                       | [PDF](audits/leNFT/LeNFTAudit.pdf)                           | June 2023 |
 | [Fuji Finance](https://fuji.finance/)                            | [PDF](audits/fuji/FujiAudit.pdf)                             | June 2023 |
 | [Tradable](https://www.tradable.trade/)                          | [PDF](audits/tradable/TradableAudit.pdf)                     | June 2023 |
@@ -68,6 +68,7 @@ Publications from Three Sigma.
 | [Mirai - Holofair Update](https://www.hololaunch.ai/token/mirai) | [PDF](audits/mirai/Holofair-Update.pdf)                      | May 2025  |
 | [M0Labs - M Extensions](https://www.m0.org/)                     | [PDF](audits/m0labs-2/M0-MExtensions.pdf)                    | May 2025  |
 | [Ojo Network - Yield Risk Engine](https://ojo.network/)          | [PDF](audits/Ojo-Network/YieldRiskEngine.pdf)                | May 2025  |
+| [Soneta]()                                                       | [PDF](audits/soneta/Soneta.pdf)                              | May 2025  |
 | [Ojo Network - Yield Risk Engine V2](https://ojo.network/)       | [PDF](audits/Ojo-Network/YieldRiskEngineV2.pdf)              | Jun 2025  |
 | [Hyperwave]()                                                    | [PDF](audits/Hyperwave/HyperliquidForwarder.pdf)             | Jun 2025  |
 
