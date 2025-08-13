@@ -71,6 +71,7 @@ Publications from Three Sigma.
 | [Soneta]()                                                       | [PDF](audits/soneta/Soneta.pdf)                              | May 2025  |
 | [Ojo Network - Yield Risk Engine V2](https://ojo.network/)       | [PDF](audits/Ojo-Network/YieldRiskEngineV2.pdf)              | Jun 2025  |
 | [Hyperwave]()                                                    | [PDF](audits/Hyperwave/HyperliquidForwarder.pdf)             | Jun 2025  |
+| [Felix]()                                                        | [PDF](audits/Felix/Felix.pdf)                                | Jul 2025  |
 
 ## Economic Audits
 
