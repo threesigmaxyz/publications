@@ -75,7 +75,7 @@ Publications from Three Sigma.
 | [Felix](https://www.usefelix.xyz/)                               | [PDF](audits/Felix/Felix.pdf)                                | Jul 2025  |
 | [Tokemak](https://app.auto.finance/)                             | [PDF](audits/tokemak/Tokemak.pdf)                            | Jul 2025  |
 | [Magma Finance](https://magmafinance.io/)                        | [PDF](audits/magma/Magma.pdf)                                | Sep 2025  |
-| [Aborean Finance](https://aborean.finance/)                      | [PDF](audits/aborean-finance/Aborean Finance.pdf)            | Aug 2025  |
+| [Aborean Finance](https://aborean.finance/)                      | [PDF](audits/aborean-finance/AboreanFinance.pdf)            | Aug 2025  |
 
 ## Economic Audits
 
