@@ -71,7 +71,11 @@ Publications from Three Sigma.
 | [Soneta]()                                                       | [PDF](audits/soneta/Soneta.pdf)                              | May 2025  |
 | [Ojo Network - Yield Risk Engine V2](https://ojo.network/)       | [PDF](audits/Ojo-Network/YieldRiskEngineV2.pdf)              | Jun 2025  |
 | [Hyperwave]()                                                    | [PDF](audits/Hyperwave/HyperliquidForwarder.pdf)             | Jun 2025  |
-| [Felix]()                                                        | [PDF](audits/Felix/Felix.pdf)                                | Jul 2025  |
+| [Keyring Network](https://www.keyring.network/)                  | [PDF](audits/Keyring/Keyring_LeveragedUnwinding.pdf)         | Jun 2025  |
+| [Felix](https://www.usefelix.xyz/)                               | [PDF](audits/Felix/Felix.pdf)                                | Jul 2025  |
+| [Tokemak](https://app.auto.finance/)                             | [PDF](audits/tokemak/Tokemak.pdf)                            | Jul 2025  |
+| [Magma Finance](https://magmafinance.io/)                        | [PDF](audits/magma/Magma.pdf)                                | Sep 2025  |
+| [Aborean Finance](https://aborean.finance/)                      | [PDF](audits/aborean-finance/Aborean Finance.pdf)            | Aug 2025  |
 
 ## Economic Audits
 
