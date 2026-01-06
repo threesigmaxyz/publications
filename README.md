@@ -83,7 +83,7 @@ Publications from Three Sigma.
 | [Abyss Vaults](https://abyss.finance/)                           | [PDF](audits/abyss/Abyss.pdf)                                | Nov 2025  |
 | [Mangrove](https://www.mangrove.exchange/)                       | [PDF](audits/mangrove/Mangrove-2.pdf)                        | Nov 2025  |
 | [Synnax](https://www.synnax.ai/)                                 | [PDF](audits/synnax/Synnax.pdf)                              | Dec 2025  |
-| [Felix EIP-7702-stock](https://www.usefelix.xyz/)                | [PDF](audits/Felix/Felix-2.pdf)                              | Dec 2025  |
+| [Felix EIP-7702-stock](https://www.usefelix.xyz/)                | [PDF](audits/Felix/Felix2.pdf)                               | Dec 2025  |
 
 ## Economic Audits
 
