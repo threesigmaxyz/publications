@@ -74,8 +74,16 @@ Publications from Three Sigma.
 | [Keyring Network](https://www.keyring.network/)                  | [PDF](audits/Keyring/Keyring_LeveragedUnwinding.pdf)         | Jun 2025  |
 | [Felix](https://www.usefelix.xyz/)                               | [PDF](audits/Felix/Felix.pdf)                                | Jul 2025  |
 | [Tokemak](https://app.auto.finance/)                             | [PDF](audits/tokemak/Tokemak.pdf)                            | Jul 2025  |
+| [Aborean Finance](https://aborean.finance/)                      | [PDF](audits/aborean-finance/AboreanFinance.pdf)             | Aug 2025  |
 | [Magma Finance](https://magmafinance.io/)                        | [PDF](audits/magma/Magma.pdf)                                | Sep 2025  |
-| [Aborean Finance](https://aborean.finance/)                      | [PDF](audits/aborean-finance/AboreanFinance.pdf)            | Aug 2025  |
+| [Mangrove](https://www.mangrove.exchange/)                       | [PDF](audits/mangrove/Mangrove.pdf)                          | Sep 2025  |
+| [Deepbook](https://deepbook.tech/)                               | [PDF](audits/deepbook/Deepbook.pdf)                          | Oct 2025  |
+| [Keyring Sidepocket Hook](https://www.keyring.network/)          | [PDF](audits/Keyring/Keyring-hook.pdf)                       | Nov 2025  |
+| [Abyss Vaults](https://abyss.finance/)                           | [PDF](audits/abyss/Abyss.pdf)                                | Nov 2025  |
+| [Abyss Vaults](https://abyss.finance/)                           | [PDF](audits/abyss/Abyss.pdf)                                | Nov 2025  |
+| [Mangrove](https://www.mangrove.exchange/)                       | [PDF](audits/mangrove/Mangrove-2.pdf)                        | Nov 2025  |
+| [Synnax](https://www.synnax.ai/)                                 | [PDF](audits/synnax/Synnax.pdf)                              | Dec 2025  |
+| [Felix EIP-7702-stock](https://www.usefelix.xyz/)                | [PDF](audits/Felix/Felix2.pdf)                               | Dec 2025  |
 
 ## Economic Audits
 
