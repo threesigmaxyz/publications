@@ -86,7 +86,7 @@ Publications from Three Sigma.
 | [Synnax](https://www.synnax.ai/)                                 | [PDF](audits/synnax/Synnax.pdf)                              | Dec 2025  |
 | [Felix EIP-7702-stock](https://www.usefelix.xyz/)                | [PDF](audits/Felix/Felix2.pdf)                               | Dec 2025  |
 | [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi.pdf)                          | Dec 2025  |
-| [Saturn Dollar](https://www.usdat.xyz/)                          | [PDF](audits/SaturnDollar/Saturn Dollar.pdf)                 | Dec 2025  |
+| [Saturn Dollar](https://www.usdat.xyz/)                          | [PDF](audits/SaturnDollar/SaturnDollar.pdf)                  | Dec 2025  |
 | [Camelot](https://www.usefelix.xyz/)                             | [PDF](audits/camelot/Camelot.pdf)                            | Jan 2026  |
 | [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi_2.pdf)                        | Jan 2026  |
 | [Felix BLP adapter](https://www.usefelix.xyz/)                   | [PDF](audits/Felix/FelixBLPadapter.pdf)                      | Jan 2026  |
