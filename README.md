@@ -90,7 +90,7 @@ Publications from Three Sigma.
 | [Camelot](https://cyphereth.com/)                                | [PDF](audits/camelot/Camelot.pdf)                            | Jan 2026  |
 | [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi_2.pdf)                        | Jan 2026  |
 | [Felix BLP adapter](https://www.usefelix.xyz/)                   | [PDF](audits/Felix/FelixBLPadapter.pdf)                      | Jan 2026  |
-| [hYPURR NFT]()                                                   | [PDF](audits/hYPURR/rHYPURR.pdf)                             | Jan 2026  |
+| [hYPURR](https://rip.xyz/)                                       | [PDF](audits/hYPURR/rHYPURR.pdf)                             | Jan 2026  |
 | [Camelot](https://cyphereth.com/)                                | [PDF](audits/camelot/Cypher.pdf)                             | Feb 2026  |
 | [Unchained Contracts]()                                          | [PDF](audits/unchained/Unchained.pdf)                        | Feb 2026  |
 
