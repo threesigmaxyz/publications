@@ -87,11 +87,19 @@ Publications from Three Sigma.
 | [Felix EIP-7702-stock](https://www.usefelix.xyz/)                | [PDF](audits/Felix/Felix2.pdf)                               | Dec 2025  |
 | [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi.pdf)                          | Dec 2025  |
 | [Saturn Dollar](https://www.usdat.xyz/)                          | [PDF](audits/SaturnDollar/SaturnDollar.pdf)                  | Dec 2025  |
-| [Camelot](https://cyphereth.com/)                                | [PDF](audits/camelot/Camelot.pdf)                            | Jan 2026  |
+| [Cypher](https://cyphereth.com/)                                 | [PDF](audits/cypher/Camelot.pdf)                             | Jan 2026  |
 | [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi_2.pdf)                        | Jan 2026  |
 | [hYPURR](https://rip.xyz/)                                       | [PDF](audits/hYPURR/rHYPURR.pdf)                             | Jan 2026  |
-| [Camelot](https://cyphereth.com/)                                | [PDF](audits/camelot/Cypher.pdf)                             | Feb 2026  |
+| [Cypher](https://cyphereth.com/)                                 | [PDF](audits/cypher/Cypher_11Feb26.pdf)                             | Feb 2026  |
 | [Unchained Contracts]()                                          | [PDF](audits/unchained/Unchained.pdf)                        | Feb 2026  |
+| [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi-23-Feb-26.pdf)                | Feb 2026  |
+| [UniFi](https://infinifi.xyz/)                                   | [PDF](audits/unifi/Unifi.pdf)                                | Mar 2026  |
+| [Keyring Precampaign](https://www.keyring.network/)              | [PDF](audits/Keyring/Keyring_Precampaign.pdf)                | Mar 2026  |
+| [Keyring TwisterIRM](https://www.keyring.network/)               | [PDF](audits/Keyring/TwistedIRM.pdf)                         | Mar 2026  |
+| [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi_ThreeSigma_Audit_25March2026.pdf)                | Mar 2026  |
+| [Keyring Unwind](https://www.keyring.network/)                   | [PDF](audits/Keyring/Keyring_Unwind.pdf)                     | Mar 2026  |
+| [NovaMarkets]()                                                  | [PDF](audits/NovaMarkets/NovaMarkets.pdf)                    | Apr 2026  |
+| [Cypher](https://cyphereth.com/)                                 | [PDF](audits/cypher/Cypher_8Apr26.pdf)                       | Apr 2026  |
 
 ## Economic Audits
 
