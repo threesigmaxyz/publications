@@ -100,6 +100,15 @@ Publications from Three Sigma.
 | [Keyring Unwind](https://www.keyring.network/)                   | [PDF](audits/Keyring/Keyring_Unwind.pdf)                     | Mar 2026  |
 | [NovaMarkets]()                                                  | [PDF](audits/NovaMarkets/NovaMarkets.pdf)                    | Apr 2026  |
 | [Cypher](https://cyphereth.com/)                                 | [PDF](audits/cypher/Cypher_8Apr26.pdf)                       | Apr 2026  |
+| [MoreMarkets VaultCore](https://www.more.markets/)               | [PDF](audits/More-Markets/MoreMarkets-VaultCore.pdf)         | Apr 2026  |
+| [MoreMarkets AllocationTransfer](https://www.more.markets/)      | [PDF](audits/More-Markets/MoreMarkets-AllocationTransfer.pdf)         | Apr 2026  |
+| [Anchored]()                                                     | [PDF](audits/anchored/Anchored.pdf)                    | May 2026  |
+| [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi-12May26.pdf)                | May 2026  |
+| [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi-8June26.pdf)                | Jun 2026  |
+| [Keyring [un]wind](https://www.keyring.network/)               | [PDF](audits/Keyring/Keyring-RWAunwind-15June.pdf)                         | Jun 2026  |
+| [BrightFund]()                                | N/A                | Jul 2026  |
+| [Keyring [un]wind](https://www.keyring.network/)               | [PDF](audits/Keyring/Keyring-27july26.pdf)                         | Jul 2026  |
+| [InfiniFi](https://infinifi.xyz/)                                | [PDF](audits/infiniFi/InfiniFi-13July26.pdf)                | Jul 2026  |
 
 ## Economic Audits
 
